@@ -1,0 +1,40 @@
+﻿.profile-picture {
+     width: 100px;
+	 height: 100px;
+}
+
+.profile-name { 
+    font-style: italic;
+	text-transform: uppercase;
+}
+
+.profile-title { 
+	color: #2d3c49;
+	text-transform: uppercase;
+}
+
+.header-break { 
+    border-color: #7d97ad;
+    border-width: 4px;
+}
+
+.portfolio-title
+ { 
+    font-family: cursive;
+	color: #9d3f49;
+}
+
+.portfolio-img
+ { 
+	font-family: cursive;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.hyperlink {
+  text-align: center;
+}
+
+.footer-text {
+  text-align: center;
+}
